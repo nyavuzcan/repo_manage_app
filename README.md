@@ -41,7 +41,7 @@ Firstly, Postgresql database is used in the project. So a new database should be
 
 **File upload:** Upload images on the host.
 
-**Scheduling:** Using spring schedular to make cache clear at a certain time interval.
+**Scheduling:** Using spring schedular to cache clear at a certain time interval.
 
 **Caching System:** Simple cache system with spring cache.
 
