@@ -32,11 +32,18 @@ Firstly, Postgresql database is used in the project. So a new database should be
 
 ## Used technologies
 **Docker:** Ui, backend, database can be run easily
+
 **SpringBoot:** For api.
+
 **JWT Authentication:** User login using spring authentication and jwt.
+
 **Email Verification:** When user is registered, mail verification, mail settings can be changed in application.properties.
+
 **File upload:** Upload images on the host.
+
 **Caching System:** Simple cache system with spring cache.
+
 **Swagger:** All endpoints are easily schematized.
+
 **React:** Js library for ui.
 
